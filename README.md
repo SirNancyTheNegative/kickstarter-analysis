@@ -1,2 +1,2 @@
-# kickstarter-repository
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+In order to determine the best course of action with starting a Kickstarter campaign, it is important to determine under what conditions a campaign in a certain category might succeed. To do this, over 4,000 different campaigns among a wide variety of categories were examined. In order to best determine the viability of categories, the campaigns were grouped into 'successful', 'failed', 'live', and 'canceled',
