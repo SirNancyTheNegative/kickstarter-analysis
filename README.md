@@ -1,2 +1,23 @@
-# An Analysis of Kickstarter Campaigns
-In order to determine the best course of action with starting a Kickstarter campaign, it is important to determine under what conditions a campaign in a certain category might succeed. To do this, over 4,000 different campaigns among a wide variety of categories were examined. In order to best determine the viability of categories, the campaigns were grouped into 'successful', 'failed', 'live', and 'canceled',
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
