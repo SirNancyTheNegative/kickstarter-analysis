@@ -14,7 +14,7 @@ The actual date of launch for any Kickstarter campaign could prove to be rather 
 
 In order to determine which timeframe would be best to start a new campaign, we took a look at each month and looked at the rate of success, failure, and cancellation of every Kickstarter campaign that fits within the Theater category for each month. After the Theater category campaigns were tabulated and separated, the results were tabulated and arranged into a line graph detailing the numbers of each result by month.
 
-![A graph of Outcomes by Launch Date](https://github.com/SirNancyTheNegative/kickstarter-analysis/tree/main/resources/Theater_Outcome_vs_Launch)
+![A graph of Outcomes by Launch Date](https://github.com/SirNancyTheNegative/kickstarter-analysis/tree/main/resources/Theater_Outcome_vs_Launch.png)
 
 Overall, May appears to be the best month to start a theatre kickstarter campaign. Of the 166 Kickstarter campaigns introduced in May, 111 of them succeeded, compared to the 52 failed campaigns in the same month. Inversely, December is by far the worst month to attempt to start a theater campaign, as of the 75 campaigns that had finished, a mere 37 of them succeeded, with the remainder of them having failed or been canceled. To be more general, the most successful times to start a campaign for a theater-oriented Kickstarter campaign would be anywhere between April and July, while September through January is a stretch of time where the chance of success is at its lowest.
 
